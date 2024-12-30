@@ -95,7 +95,7 @@ After rebooting into your newly installed ExelentOS:
      ```bash
      sudo pacman -S nvidia nvidia-utils
      ```
-   - For other hardware, refer to the [driver guide](/drivers).
+   - For other hardware, refer to the [driver guide](drivers).
 
 ---
 
@@ -105,7 +105,7 @@ Now that ExelentOS is up and running, you can:
 
 - Personalize your desktop by customizing themes and widgets.
 - Explore pre-installed applications.
-- Learn about advanced features in the [User Guide](/user-Guide).
+- Learn about advanced features in the [User Guide](user-guide).
 
 ---
 
