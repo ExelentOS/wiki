@@ -3,7 +3,6 @@ layout: default
 title: Drivers
 parent: Getting Started
 nav_order: 2
-nav_exclude: false
 ---
 
 # ExelentOS Drivers

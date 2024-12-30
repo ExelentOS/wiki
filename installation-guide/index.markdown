@@ -21,7 +21,7 @@ Before starting the installation, ensure you have the following:
    - A USB port or DVD drive for installation media.
 
 2. **Installation Media:**
-   - A bootable USB or DVD with the ExelentOS ISO. Refer to the [Getting Started Guide](/getting-started) for instructions on creating bootable media.
+   - A bootable USB or DVD with the ExelentOS ISO. Refer to the [Getting Started Guide](../getting-started) for instructions on creating bootable media.
 
 3. **Data Backup:**
    - Back up all important files to avoid data loss during installation.
@@ -101,13 +101,13 @@ Congratulations! ExelentOS is now installed on your system. Here are some recomm
 3. **Configure Settings:**
    Adjust system preferences, install drivers, and customize your environment.
 
-For further guidance, check out the [Getting Started Guide](/getting-started).
+For further guidance, check out the [Getting Started Guide](../getting-started).
 
 ---
 
 ## Troubleshooting
 
-If you encounter any issues during installation, refer to the [Troubleshooting Guide](/troubleshooting) or submit a query via [GitHub Issues](https://github.com/exelentos/exelentos-iso/issues).
+If you encounter any issues during installation, refer to the [Troubleshooting Guide](../troubleshooting) or submit a query via [GitHub Issues](https://github.com/exelentos/exelentos-iso/issues).
 
 ---
 

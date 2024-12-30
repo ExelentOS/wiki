@@ -78,7 +78,7 @@ The Live Environment allows you to try ExelentOS before installing it:
    - Select your time zone and keyboard layout.
 3. Complete the installation and reboot the system when prompted.
 
-> for a more in-depth installation process, visit the [installation page](/installation-guide)
+> for a more in-depth installation process, visit the [installation page](../installation-guide)
 
 ---
 
@@ -109,6 +109,6 @@ Now that ExelentOS is up and running, you can:
 
 ---
 
-If you encounter issues, check the [Troubleshooting Guide](/troubleshooting) or reach out via [GitHub Issues](https://github.com/exelentos/exelentos-iso/issues).
+If you encounter issues, check the [Troubleshooting Guide](../troubleshooting) or reach out via [GitHub Issues](https://github.com/exelentos/exelentos-iso/issues).
 
 Enjoy your experience with ExelentOS!

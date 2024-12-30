@@ -20,7 +20,7 @@ This wiki serves as the central hub for documentation, guides, and resources rel
 
 Learn how to set up and use ExelentOS for the first time. Start with downloading the latest ISO, creating bootable media, and installing the system.
 
-- [Getting Started Guide](/getting-started)
+- [Getting Started Guide](getting-started)
 
 ---
 
@@ -28,7 +28,7 @@ Learn how to set up and use ExelentOS for the first time. Start with downloading
 
 Follow detailed instructions to install ExelentOS on your device, including partitioning tips and hardware setup recommendations.
 
-- [Installation Guide](/installation-guide)
+- [Installation Guide](installation-guide)
 
 ---
 
@@ -36,7 +36,7 @@ Follow detailed instructions to install ExelentOS on your device, including part
 
 Discover the unique features that make ExelentOS stand out, including pre-configured KDE Plasma 6, Arch Linux flexibility, and a streamlined user experience.
 
-- [Features](/features)
+- [Features](features)
 
 ---
 
@@ -44,7 +44,7 @@ Discover the unique features that make ExelentOS stand out, including pre-config
 
 Find answers to frequently asked questions about ExelentOS, installation, and common issues.
 
-- [FAQs](/faq)
+- [FAQs](faq)
 
 ---
 
@@ -52,7 +52,7 @@ Find answers to frequently asked questions about ExelentOS, installation, and co
 
 Encountered a problem? Check our troubleshooting guides for solutions to common issues.
 
-- [Troubleshooting Guide](/troubleshooting)
+- [Troubleshooting Guide](troubleshooting)
 
 
 ---
