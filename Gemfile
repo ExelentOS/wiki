@@ -8,6 +8,7 @@ gem "github-pages", ">= 206"
 
 # Use minima that is compatible with github-pages
 gem "minima", "~> 2.5.0"
+gem "just-the-docs"
 
 # Jekyll plugins
 group :jekyll_plugins do

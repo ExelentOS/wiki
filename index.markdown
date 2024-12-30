@@ -1,7 +1,61 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
 ---
-skibidi
+
+# Welcome to the ExelentOS Wiki!
+
+![ExelentOS Logo](https://exelentos.github.io/images/bg.png)
+
+
+## About ExelentOS
+
+ExelentOS is a user-friendly, Arch Linux-based distribution featuring the latest **KDE Plasma 6 desktop environment**. Built with simplicity, stability, and performance in mind, ExelentOS is tailored for both new and experienced users.
+
+This wiki serves as the central hub for documentation, guides, and resources related to ExelentOS.
+
+---
+
+## Getting Started
+
+Learn how to set up and use ExelentOS for the first time. Start with downloading the latest ISO, creating bootable media, and installing the system.
+
+- [Getting Started Guide](https://github.com/exelentos/exelentos-iso/wiki/Getting-Started)
+
+---
+
+## Installation Guide
+
+Follow detailed instructions to install ExelentOS on your device, including partitioning tips and hardware setup recommendations.
+
+- [Installation Guide](https://github.com/exelentos/exelentos-iso/wiki/Installation-Guide)
+
+---
+
+## Features
+
+Discover the unique features that make ExelentOS stand out, including pre-configured KDE Plasma 6, Arch Linux flexibility, and a streamlined user experience.
+
+- [Features](https://github.com/exelentos/exelentos-iso/wiki/Features)
+
+---
+
+## FAQs
+
+Find answers to frequently asked questions about ExelentOS, installation, and common issues.
+
+- [FAQs](https://github.com/exelentos/exelentos-iso/wiki/FAQs)
+
+---
+
+## Troubleshooting
+
+Encountered a problem? Check our troubleshooting guides for solutions to common issues.
+
+- [Troubleshooting Guide](https://github.com/exelentos/exelentos-iso/wiki/Troubleshooting)
+
+
+---
+
+Thank you for supporting ExelentOS! If you have suggestions or feedback, feel free to reach out through our [GitHub Issues](https://github.com/exelentos/exelentos-iso/issues) or contact us directly.
+
