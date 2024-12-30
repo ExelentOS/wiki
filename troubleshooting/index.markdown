@@ -8,6 +8,13 @@ nav_order: 5
 
 This guide provides technical troubleshooting steps for common issues you might encounter while using ExelentOS. For advanced details, refer to the [Arch Wiki](https://wiki.archlinux.org/).
 
+tip: if you see anything encased in 
+```
+this
+```
+it means you have to use a terminal(Ctrl+alt+t) unless otherwise noted
+
+
 > note: this is more technical, if there really is something you don't understand, then create an issue on [Github](https://github.com/exelentos/exelentos-iso/issues)
 
 ---

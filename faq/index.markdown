@@ -8,6 +8,12 @@ nav_order: 4
 
 Here are answers to common questions and troubleshooting tips for ExelentOS users:
 
+tip: if you see anything encased in 
+```
+this
+```
+it means you have to use a terminal(Ctrl+alt+t) unless otherwise noted
+
 ---
 
 ## General Troubleshooting

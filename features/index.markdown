@@ -51,9 +51,9 @@ ExelentOS is a cutting-edge operating system designed to provide a seamless and 
 
 ## Community and Support
 
-- **Documentation:** Comprehensive guides and tutorials available on the [official wiki](https://github.com/exelentos/exelentos-iso/wiki).
+- **Documentation:** Comprehensive guides and tutorials available on the [official wiki](/).
 - **Active Community:** Engage with other users and developers through forums, chats, and GitHub. [not yet]
-- **Issue Reporting:** Report bugs and request features via [[GitHub Issues](https://github.com/exelentos/exelentos-iso/issues).
+- **Issue Reporting:** Report bugs and request features via [GitHub Issues](https://github.com/exelentos/exelentos-iso/issues).
 
 ---
 
@@ -64,4 +64,4 @@ ExelentOS is a cutting-edge operating system designed to provide a seamless and 
 
 ---
 
-With ExelentOS, you’re stepping into an operating system that prioritizes performance, simplicity, and a vibrant community. Whether you’re a tech enthusiast or just looking for a reliable system, ExelentOS has something for everyone!
+With ExelentOS, you’re stepping into an operating system that prioritizes performance, simplicity, and a (still in construction) vibrant community. Whether you’re a tech enthusiast or just looking for a reliable system, ExelentOS has something for everyone!
